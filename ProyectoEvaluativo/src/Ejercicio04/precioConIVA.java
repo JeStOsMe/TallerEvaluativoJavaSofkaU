@@ -2,7 +2,7 @@
  * Lee un número por teclado que pida el precio de un producto, y calcule el
  * precio final con IVA. El IVA será una constante del 21%
  */
-package Ejercicio4;
+package Ejercicio04;
 
 import java.util.Scanner;
 

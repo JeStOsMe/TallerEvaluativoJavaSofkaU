@@ -3,7 +3,7 @@
  * Si no lo es, volverá a pedir que ingrese el número. Luego, mostrará el número
  * por consola.
  */
-package Ejercicio7;
+package Ejercicio07;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 /*
  * Realizar el ejercicio 5, pero cambiando el ciclo while por un ciclo for.
  */
-package Ejercicio6;
+package Ejercicio06;
 
 /**
  *

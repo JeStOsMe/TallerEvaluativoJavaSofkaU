@@ -2,7 +2,7 @@
  * Muestra los números impares y pares del 1 al 100 (ambos incluidos). Usar un
  * bucle while
  */
-package Ejercicio5;
+package Ejercicio05;
 
 /**
  *

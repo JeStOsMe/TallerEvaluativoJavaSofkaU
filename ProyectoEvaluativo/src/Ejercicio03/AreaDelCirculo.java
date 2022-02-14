@@ -2,7 +2,7 @@
  * Haz una aplicación que calcule el área de un círculo (Pi*R^2). El radio se
  * pedirá por teclado. Usa la constante Pi y el método pow de Math.
  */
-package Ejercicio3;
+package Ejercicio03;
 
 import java.util.Scanner;
 

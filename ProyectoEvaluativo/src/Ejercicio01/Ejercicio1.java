@@ -3,7 +3,7 @@
  * mayor de los dos. Si son iguales, indicarlo también. Ve cambiando los valores
  * para comprobar que funcionan.
  */
-package Ejercicio1;
+package Ejercicio01;
 
 /**
  *

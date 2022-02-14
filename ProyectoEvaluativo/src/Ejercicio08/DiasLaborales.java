@@ -2,7 +2,7 @@
  * Crea una aplicación por consola que nos pida un día de la semana, y que nos 
  * diga si es un día laboral o no. Usar un switch.
  */
-package Ejercicio8;
+package Ejercicio08;
 
 import java.util.Scanner;
 

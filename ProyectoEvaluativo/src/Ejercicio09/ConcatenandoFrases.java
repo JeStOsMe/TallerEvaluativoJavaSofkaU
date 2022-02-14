@@ -3,7 +3,7 @@
  * las a del string por e. Adicionalmente, concatenar a esta frase una adicional
  * ingresada por consola, y luego las muestre unidas.
  */
-package Ejercicio9;
+package Ejercicio09;
 
 import java.util.Scanner;
 
