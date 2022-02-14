@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author LENOVO
+ * @author Jeaniel Osorno
  */
 public class EliminandoEspaciosEnFrase {
     
